@@ -23,7 +23,9 @@
             "database/factories"
         ],
         "psr-4": {
-            "App\\": "app/"
+            "App\\": "app/",
+            "Arrynn\\LaravelHelpers\\": "lib/Arrynn/LaravelHelpers",
+            "Arrynn\\MultilayeredInfrastructure\\": "lib/Arrynn/MultilayeredInfrastructure"
         }
     },
     "autoload-dev": {
